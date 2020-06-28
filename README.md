@@ -1,0 +1,2 @@
+# Chinese-Text-Classification
+基于Pytorch实现的一些经典自然语言处理模型中文短文本分类任务，包含TextCNN，TextRCNN，FastText，BERT，ROBERT以及ERNIE
