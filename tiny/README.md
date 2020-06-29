@@ -1,6 +1,6 @@
 # Tiny
 
-包含TextCNN、TextRCNN、FastText等一些经典的轻量网络模型。
+包含TextCNN、TextRCNN、FastText等一些经典的轻量网络模型
 
 
 

@@ -1,6 +1,6 @@
 # BERT
 
-包含BERT及其衍生的ROBERTA、ERNIE1.0等一些经典的深度网络模型。
+包含BERT及其衍生的ROBERTA、ERNIE1.0等一些经典的深度网络模型
 
 
 
