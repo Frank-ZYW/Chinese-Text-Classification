@@ -83,5 +83,5 @@ python run.py --model TextRCNN
 ## 相关论文
 
 [1] Convolutional Neural Networks for Sentence Classification [论文链接](https://arxiv.org/pdf/1408.5882.pdf)
-[2] Recurrent Convolutional Neural Networks for Text Classification [论文链接]([http://www.nlpr.ia.ac.cn/cip/~liukang/liukangPageFile/Recurrent%20Convolutional%20Neural%20Networks%20for%20Text%20Classification.pdf](http://www.nlpr.ia.ac.cn/cip/~liukang/liukangPageFile/Recurrent Convolutional Neural Networks for Text Classification.pdf))
+[2] Recurrent Convolutional Neural Networks for Text Classification [论文链接](http://www.nlpr.ia.ac.cn/cip/~liukang/liukangPageFile/Recurrent%20Convolutional%20Neural%20Networks%20for%20Text%20Classification.pdf)
 [3] Bag of Tricks for Efficient Text Classification [论文链接](https://arxiv.org/pdf/1607.01759.pdf)
