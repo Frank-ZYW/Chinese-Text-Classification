@@ -1,3 +1,4 @@
 embedding_SougouNews.npz
 /.idea
+/bert/logs
 *.pyc

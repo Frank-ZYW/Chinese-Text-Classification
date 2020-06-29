@@ -43,10 +43,16 @@
 #### 主要目录
 
 - `data/dataset:` 存放原始数据集，原始数据集已随项目上传
-- `data/pretrained:` 存放预训练词向量模型文件，可从[Chinese Word Vectors 中文词向量](https://github.com/Embedding/Chinese-Word-Vectors)项目下载
+- `data/pretrained:` 存放预训练词向量模型文件
 - `data/pretreatment:` 存放数据预处理结果文件
 - `results:` 模型训练结果存储
 - `models:` 模型定义及部分超参
+
+
+
+## 预训练模型
+
+下载地址 [Chinese Word Vectors 中文词向量](https://github.com/Embedding/Chinese-Word-Vectors)项目
 
 
 
